@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">CTF enjoyer</h3>
-<img align="left" alt="Coding" width="200" src="https://media2.giphy.com/media/fByehYIrOIzO8XolJK/200w.gif?cid=6c09b952fxi4tbfkc2c644y8aum37atsax4s97k6zyts27f4&rid=200w.gif">
-
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a14x01" alt="a14x01" /></a> </p>
 
