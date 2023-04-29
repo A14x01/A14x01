@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 📫 How to reach me **a.cvet@seznam.cz**
+- 📫 How to reach me **a14xhelper@gmail.com**
 
-<h3 align="left">Connect with me: N0name#5231</h3>
+<h3 align="left">Connect with me: A13x#5231</h3>
 <p align="left">
 </p>
 
