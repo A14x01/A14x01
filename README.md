@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **machine learning**
 
-- 📫 How to reach me **a14xhelper@gmail.com**
+- 📫 How to reach me **a.cvet@seznam.cz**
 
 <h3 align="left">Connect with me: A13x#5231</h3>
 <p align="left">
