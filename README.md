@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **AI**
+- 🔭 I’m currently working on **InternalMemoryHacking**
 
-- 🌱 I’m currently learning **machine learning**
-
-- 📫 How to reach me **a.cvet@seznam.cz**
+- 🌱 I’m currently learning **Hooking functions**
 
 <h3 align="left">Connect with me: A13x#5231</h3>
 <p align="left">
