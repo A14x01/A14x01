@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Hooking functions**
 
-<h3 align="left">Connect with me: A13x#5231</h3>
+
 <p align="left">
 </p>
 
